@@ -1,0 +1,1 @@
+let foneDeOuvido = 1;
